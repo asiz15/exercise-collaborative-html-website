@@ -1,3 +1,21 @@
 body{
     background: #BDBDBD;
 }
+
+.tagline-section{
+    min-height: 90vh;
+    background-image: url('../img/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tagline-section h1.tagline-title{
+    font-size: 4.5em;
+    background: #fff;
+}
+
+.tagline-section h2.tagline-subtitle{
+    font-size: 3em;
+    background: #fff;
+}
