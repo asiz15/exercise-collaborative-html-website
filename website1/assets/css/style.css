@@ -19,3 +19,10 @@ body{
     font-size: 3em;
     background: #fff;
 }
+
+.imagen img {
+width: 350px;
+height: 350px;
+object-fit: cover;
+border-radius: 50%;
+}
